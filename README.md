@@ -22,7 +22,9 @@ The core functionality is defined in “Core.py”.
         Tokenizing
         Stemming
         Vectorizing
-        Estimator Used
+        
+Estimator Used
+        
         SVC with kernal=’linear’
 
 
