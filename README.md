@@ -15,15 +15,15 @@ Data overview
 
 Program Overview
 
-    The core functionality is defined in “Core.py”.
+The core functionality is defined in “Core.py”.
 
     Preprocessing
-    Non_ascii remover
-    Tokenizing
-    Stemming
-    Vectorizing
-    Estimator Used
-    SVC with kernal=’linear’
+        Non_ascii remover
+        Tokenizing
+        Stemming
+        Vectorizing
+        Estimator Used
+        SVC with kernal=’linear’
 
 Model Prediction
     pickled  the model for persistance
