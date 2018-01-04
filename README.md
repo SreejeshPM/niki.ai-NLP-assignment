@@ -25,9 +25,11 @@ The core functionality is defined in “Core.py”.
         Estimator Used
         SVC with kernal=’linear’
 
+
 Model Prediction
-    pickled  the model for persistance
-    Created “predict.py” for prediction service
+
+        pickled  the model for persistance
+        Created “predict.py” for prediction service
 
 
 
